@@ -6,7 +6,7 @@
 test_str = 'Gfg is best . Gfg also has Classes now. \
 				Classes help understand better . '
 
-# printing original string
+# printing original string and
 print("The original string is : " + str(test_str))
 
 # initializing replace mapping
